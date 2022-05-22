@@ -1,0 +1,380 @@
+﻿@UTF8
+@PID:	11312/c-00036480-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|9;03.28|female|TD||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 06-DEC-1991
+@Date:	03-APR-2001
+@Tape Location:	Disk L26 Track 84
+@Bg:	A1
+@Types:	cross, narrative, TD
+*CHI:	once there was an elephant and a giraffe (.) at a swimming pool .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a n|elephant coord|and
+	det:art|a n|giraffe prep|at det:art|a n:gerund|swim-PRESP n|pool .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*CHI:	then the giraffe <saw> [/] saw a ball in the water and wanted to go
+	in .
+%mor:	adv:tem|then det:art|the n|giraffe v|see&PAST det:art|a n|ball
+	prep|in det:art|the n|water coord|and v|want-PAST inf|to v|go adv|in
+	.
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|CONJ 11|10|COORD 12|13|INF 13|11|COMP 14|13|JCT 15|4|PUNCT
+*CHI:	then the giraffe ran in and tried to swim .
+%mor:	adv:tem|then det:art|the n|giraffe v|run&PAST adv|in coord|and
+	v|try-PAST inf|to v|swim .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|INF
+	9|7|COMP 10|4|PUNCT
+*CHI:	the elephant was worried .
+%mor:	det:art|the n|elephant aux|be&PAST&13S part|worry-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	then (.) the elephant gave the giraffe another balloon so he
+	(woul)d get out of the water .
+%mor:	adv:tem|then det:art|the n|elephant v|give&PAST det:art|the
+	n|giraffe qn|another n|balloon co|so pro:sub|he mod|will&COND v|get
+	adv|out prep|of det:art|the n|water .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|12|CJCT 5|6|DET 6|4|OBJ 7|8|QUANT 8|4|OBJ
+	9|4|COM 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|12|PUNCT
+*CHI:	then (.) the elephant when he was just about to <take it> [//] give
+	it to the giraffe he took it back .
+%mor:	adv:tem|then det:art|the n|elephant conj|when pro:sub|he
+	cop|be&PAST&13S adj|just adv|about inf|to v|give pro:per|it prep|to
+	det:art|the n|giraffe pro:sub|he v|take&PAST pro:per|it adv|back .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|PRED
+	8|10|JCT 9|10|INF 10|6|CPRED 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ
+	15|16|SUBJ 16|10|CJCT 17|16|OBJ 18|16|JCT 19|1|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	once there was (.) a giraffe and a (.) elephant .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a n|giraffe coord|and
+	det:art|a n|elephant .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*CHI:	they walked past a balloon .
+%mor:	pro:sub|they v|walk-PAST adj|past det:art|a n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	and then the elephant saw a diving board that looked like fun .
+%mor:	coord|and adv:tem|then det:art|the n|elephant v|see&PAST det:art|a
+	n:gerund|dive-PRESP n|board pro:rel|that v|look-PAST co|like adj|fun
+	.
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|LINK 10|8|CMOD 11|12|COM 12|10|COMP 13|5|PUNCT
+*CHI:	then he started running to it .
+%mor:	adv:tem|then pro:sub|he v|start-PAST part|run-PRESP prep|to
+	pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	and the giraffe followed behind .
+%mor:	coord|and det:art|the n|giraffe v|follow-PAST adv|behind .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	then <the> [/] the elephant tripped and fell and hurt herself .
+%mor:	adv:tem|then det:art|the n|elephant v|trip-PAST coord|and
+	v|fall&PAST coord|and v|hurt&ZERO pro:refl|herself .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|4|PUNCT
+*CHI:	then the lifeguard came (.) and stitched up <the ban> [//] the
+	wound .
+%mor:	adv:tem|then det:art|the n|lifeguard v|come&PAST coord|and
+	v|stitch-PAST prep|up det:art|the n|wound .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	then the lifeguard helped her get back up .
+%mor:	adv:tem|then det:art|the n|lifeguard v|help-PAST pro:obj|her v|get
+	adv|back adv|up .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|JCT 8|6|JCT
+	9|4|PUNCT
+*CHI:	and then she was sitting down <at this> [//] by the sign that said
+	no running .
+%mor:	coord|and adv:tem|then pro:sub|she aux|be&PAST&13S part|sit-PRESP
+	adv|down prep|by det:art|the n|sign pro:rel|that v|say&PAST qn|no
+	part|run-PRESP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|13|QUANT 13|11|COMP 14|5|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	once there was an elephant and a giraffe .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a n|elephant coord|and
+	det:art|a n|giraffe .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*CHI:	the giraffe was playing with (.) a toy airplane .
+%mor:	det:art|the n|giraffe aux|be&PAST&13S part|play-PRESP prep|with
+	det:art|a n|toy n|airplane .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	then the elephant snatched it out of the giraffe's hands .
+%mor:	adv:tem|then det:art|the n|elephant v|snatch-PAST pro:per|it
+	adv|out prep|of det:art|the adj|giraffe&dn-POSS n|hand-PL .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*CHI:	then the giraffe dropped it in the pool .
+%mor:	adv:tem|then det:art|the n|giraffe v|drop-PAST pro:per|it prep|in
+	det:art|the n|pool .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	and the <ele> [//] giraffe was mad (.) very mad .
+%mor:	coord|and det:art|the n|giraffe cop|be&PAST&13S adj|mad adv|very
+	adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|JCT 7|4|PRED 8|4|PUNCT
+*CHI:	and then the lifeguard saw (.) the giraffe and the elephant and the
+	toy airplane in the water .
+%mor:	coord|and adv:tem|then det:art|the n|lifeguard v|see&PAST
+	det:art|the n|giraffe coord|and det:art|the n|elephant coord|and
+	det:art|the n|toy n|airplane prep|in det:art|the n|water .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|7|CONJ 12|14|DET 13|14|MOD 14|11|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|5|PUNCT
+*CHI:	the elephant tried to explain to the lifeguard .
+%mor:	det:art|the n|elephant v|try-PAST inf|to v|explain prep|to
+	det:art|the n|lifeguard .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	but he could n(o)t .
+%mor:	conj|but pro:sub|he mod|could neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*CHI:	<he> [/] he <was> [/] was n(o)t understanding what she was saying .
+%mor:	pro:sub|he aux|be&PAST&13S neg|not part|understand-PRESP
+	pro:int|what pro:sub|she aux|be&PAST&13S part|say-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+*CHI:	then <she finally> [//] he finally understood what she was saying .
+%mor:	adv:tem|then pro:sub|he adv|final&dadj-LY v|understand&PAST
+	pro:int|what pro:sub|she aux|be&PAST&13S part|say-PRESP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+*CHI:	and he tried to get it out of the water .
+%mor:	coord|and pro:sub|he v|try-PAST inf|to v|get pro:per|it adv|out
+	prep|of det:art|the n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*CHI:	then he could n(o)t make it .
+%mor:	adv:tem|then pro:sub|he mod|could neg|not v|make pro:per|it .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and the giraffe was crying .
+%mor:	coord|and det:art|the n|giraffe aux|be&PAST&13S part|cry-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	then an elephant (.) came with (.) a little catcher thing to get
+	the toy airplane out of the water .
+%mor:	adv:tem|then det:art|a n|elephant v|come&PAST prep|with det:art|a
+	adj|little n|catch&dv-AGT n|thing inf|to v|get det:art|the n|toy
+	n|airplane adv|out prep|of det:art|the n|water .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|DET 7|8|MOD 8|9|MOD
+	9|5|POBJ 10|11|INF 11|9|XMOD 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|4|PUNCT
+*CHI:	then <she> [/] she was trying to get it out .
+%mor:	adv:tem|then pro:sub|she aux|be&PAST&13S part|try-PRESP inf|to
+	v|get pro:per|it adv|out .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	then she got it out .
+%mor:	adv:tem|then pro:sub|she v|get&PAST pro:per|it adv|out .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	and the giraffe was happy .
+%mor:	coord|and det:art|the n|giraffe cop|be&PAST&13S adj|happy .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	and then the giraffe (.) held it in her hands close .
+%mor:	coord|and adv:tem|then det:art|the n|giraffe v|hold&PAST pro:per|it
+	prep|in det:poss|her n|hand-PL adj|close .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|5|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	once there was (.) a bunny and a (.) dog .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a n|bunny coord|and
+	det:art|a n|dog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*CHI:	one day when the dog was making a sandcastle (.) the bunny was
+	playing beside him .
+%mor:	det:num|one n|day conj|when det:art|the n|dog aux|be&PAST&13S
+	part|make-PRESP det:art|a n|+n|sand+n|castle det:art|the n|bunny
+	aux|be&PAST&13S part|play-PRESP prep|beside pro:obj|him .
+%gra:	1|2|QUANT 2|13|JCT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|13|CJCT 8|9|DET
+	9|7|OBJ 10|11|DET 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|JCT 15|14|POBJ
+	16|13|PUNCT
+*CHI:	she was scooping sand out of a bucket .
+%mor:	pro:sub|she cop|be&PAST&13S n:gerund|scoop-PRESP n|sand adv|out
+	prep|of det:art|a n|bucket .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|NJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	then (.) when she thought she was done <she> [/] she took the sand
+	that was left in the bucket and (.) poured it on the dog's (.)
+	sandcastle .
+%mor:	adv:tem|then conj|when pro:sub|she v|think&PAST pro:sub|she
+	aux|be&PAST&13S part|do&PASTP pro:sub|she v|take&PAST det:art|the
+	n|sand pro:rel|that aux|be&PAST&13S part|leave&PASTP prep|in
+	det:art|the n|bucket coord|and v|pour-PAST pro:per|it prep|on
+	det:art|the adj|dog&dn-POSS n|+n|sand+n|castle .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|7|SUBJ 6|7|AUX 7|4|COMP
+	8|9|SUBJ 9|7|COMP 10|11|DET 11|9|OBJ 12|14|LINK 13|14|AUX 14|11|CMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|CONJ 19|18|COORD 20|19|OBJ 21|19|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|1|PUNCT
+*CHI:	that made the dog (.) mad and the bunny (.) funny .
+%mor:	pro:rel|that v|make&PAST det:art|the n|dog adj|mad coord|and
+	det:art|the n|bunny adj|fun&dn-Y .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|POSTMOD 10|2|PUNCT
+*CHI:	then the dog started crying .
+%mor:	adv:tem|then det:art|the n|dog v|start-PAST part|cry-PRESP .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|4|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B1
+@Bg:	B2
+*CHI:	once there was (.) just <a> [/] (.) a bunny and a dog .
+%mor:	adv|once adv|there cop|be&PAST&13S adv|just det:art|a n|bunny
+	coord|and det:art|a n|dog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|6|CONJ 8|9|DET
+	9|7|COORD 10|3|PUNCT
+*CHI:	<they were> [/] they were going out on a picnic .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP adv|out prep|on det:art|a
+	n|picnic .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	when the dog had barely taken out anything just his sandwich (.) he
+	saw the bunny pigging out on treats .
+%mor:	conj|when det:art|the n|dog v|have&PAST adv|bare&dadj-LY
+	part|take&PASTP adv|out pro:indef|anything adv|just det:poss|his
+	n|sandwich pro:sub|he v|see&PAST det:art|the n|bunny part|pig-PRESP
+	adv|out prep|on n|treat-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|COMP 7|6|JCT 8|13|LINK
+	9|10|JCT 10|11|DET 11|13|JCT 12|13|SUBJ 13|7|CPOBJ 14|15|DET 15|16|SUBJ
+	16|13|COMP 17|16|JCT 18|16|JCT 19|18|POBJ 20|4|PUNCT
+*CHI:	after <the> [/] the dog finished his sandwich and drinks some juice
+	(.) the bunny had already finished all his lunch with an upset
+	stomach .
+%mor:	prep|after det:art|the n|dog v|finish-PAST det:poss|his n|sandwich
+	coord|and v|drink-3S qn|some n|juice det:art|the n|bunny v|have&PAST
+	adv|already part|finish-PASTP qn|all det:poss|his n|lunch prep|with
+	det:art|a adj|upset n|stomach .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|10|QUANT 10|8|OBJ 11|12|DET 12|13|SUBJ 13|10|CMOD 14|13|JCT 15|13|XJCT
+	16|18|QUANT 17|18|DET 18|15|OBJ 19|15|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|4|PUNCT
+*CHI:	when the dog was still eating (.) it looked like the bunny ate more
+	.
+%mor:	conj|when det:art|the n|dog aux|be&PAST&13S adv|still
+	part|eat-PRESP pro:per|it cop|look-PAST prep|like det:art|the
+	n|bunny v|eat&PAST pro:indef|more .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|CPRED 13|12|OBJ 14|6|PUNCT
+*CHI:	and <now he had> [/] (.) now he had stars going around his head .
+%mor:	coord|and adv|now pro:sub|he v|have&PAST n|star-PL part|go-PRESP
+	prep|around det:poss|his n|head .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	then the dog went to the doctor bunny .
+%mor:	adv:tem|then det:art|the n|dog v|go&PAST prep|to det:art|the
+	n|doctor n|bunny .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	and (.) he asked her to come to <the> [/] (.) the other bunny .
+%mor:	coord|and pro:sub|he v|ask-PAST pro:obj|her inf|to v|come prep|to
+	det:art|the qn|other n|bunny .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|3|PUNCT
+*CHI:	then he made her come closer .
+%mor:	adv:tem|then pro:sub|he v|make&PAST pro:obj|her v|come adj|close-CP
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*CHI:	then (.) <the bun> [//] the doctor bunny gave (.) the bunny (.)
+	medicine .
+%mor:	adv:tem|then det:art|the n|doctor n|bunny v|give&PAST det:art|the
+	n|bunny n|medicine .
+%gra:	1|5|JCT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*CHI:	then the bunny took him home .
+%mor:	adv:tem|then det:art|the n|bunny v|take&PAST pro:obj|him adv|home .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	once there was (.) a dog pulling a wagon when a bunny came along .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a n|dog part|pull-PRESP
+	det:art|a n|wagon conj|when det:art|a n|bunny v|come&PAST adv|along
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|8|DET 8|6|OBJ
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|3|CJCT 13|12|JCT 14|3|PUNCT
+*CHI:	the bunny told him to look (..) away .
+%mor:	det:art|the n|bunny v|tell&PAST pro:obj|him inf|to v|look adv|away
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|3|PUNCT
+*CHI:	then (.) the bunny took the balloon off the dog's wagon .
+%mor:	adv:tem|then det:art|the n|bunny v|take&PAST det:art|the n|balloon
+	prep|off det:art|the adj|dog&dn-POSS n|wagon .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*CHI:	and (.) when he got it up he let go .
+%mor:	coord|and conj|when pro:sub|he v|get&PAST pro:per|it adv|up
+	pro:sub|he v|let&ZERO v|go .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|OBJ 6|4|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|COMP 10|8|PUNCT
+*CHI:	and then it went floating away .
+%mor:	coord|and adv:tem|then pro:per|it v|go&PAST part|float-PRESP
+	adv|away .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|4|PUNCT
+*CHI:	then the dog was really mad at the bunny .
+%mor:	adv:tem|then det:art|the n|dog cop|be&PAST&13S adv|real&dadj-LY
+	adj|mad prep|at det:art|the n|bunny .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	then (.) a sales <ba> [/] balloon bunny was selling <boo> [//]
+	balloons over by where the dog and the bunny were .
+%mor:	adv:tem|then det:art|a n|sale-PL n|balloon n|bunny cop|be&PAST&13S
+	n:gerund|sell-PRESP n|balloon-PL adv|over prep|by pro:int|where
+	det:art|the n|dog coord|and det:art|the n|bunny cop|be&PAST .
+%gra:	1|6|JCT 2|5|DET 3|4|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|17|LINK 12|13|DET 13|17|SUBJ 14|13|CONJ 15|16|DET
+	16|14|COORD 17|10|CPOBJ 18|6|PUNCT
+*CHI:	then (.) the bunny asked the (.) sales person balloon bunny for a
+	balloon .
+%mor:	adv:tem|then det:art|the n|bunny v|ask-PAST det:art|the n|sale-PL
+	n|person n|balloon n|bunny prep|for det:art|a n|balloon .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|9|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|4|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CHI:	<but> [/] but then he found out <that> [/] that they were five
+	cents .
+%mor:	conj|but adv:tem|then pro:sub|he v|find&PAST adv|out comp|that
+	pro:sub|they cop|be&PAST det:num|five n|cent-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|QUANT 10|8|PRED 11|4|PUNCT
+*CHI:	and he had no money .
+%mor:	coord|and pro:sub|he v|have&PAST qn|no n|money .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	so then <the> [/] the dog (.) and <the ba> [/] the (.) bunny were
+	mad .
+%mor:	adv|so adv:tem|then det:art|the n|dog coord|and det:art|the n|bunny
+	cop|be&PAST adj|mad .
+%gra:	1|2|JCT 2|8|JCT 3|4|DET 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|0|ROOT
+	9|8|PRED 10|8|PUNCT
+*CHI:	then (.) the bunny found his mom (..) and asked for five cents for
+	the balloon .
+%mor:	adv:tem|then det:art|the n|bunny v|find&PAST det:poss|his n|mom
+	coord|and v|ask-PAST prep|for det:num|five n|cent-PL prep|for
+	det:art|the n|balloon .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*CHI:	he gave (.) him five cents .
+%mor:	pro:sub|he v|give&PAST pro:obj|him det:num|five n|cent-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*CHI:	and they each got a balloon .
+%mor:	coord|and pro:sub|they qn|each v|get&PAST det:art|a n|balloon .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|QUANT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B3
+@End
