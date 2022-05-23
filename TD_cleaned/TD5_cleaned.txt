@@ -14,7 +14,7 @@ the giraffe ran to get a lifeguard
 the lifeguard came over to help the little elephant 
 she cried while the lifeguard put a bandaid on her knee 
 the lifeguard and the little giraffe (.) helped her walk (.) out bench to a 
-the lifeguard said no more running while you in the pool are 
+the lifeguard said no more running while you are in the pool 
 the end . [+ bch]
 %mor:	det:art|the n|end 
 once there was (.) a giraffe and a elephant playing with a by a pool toy plane 
@@ -26,7 +26,7 @@ the giraffe got mad at her
 the lifeguard came (.) over to see what was the matter 
 the little elephant told the lifeguard what had happened 
 so he tried to get the plane 
-but he could reach not 
+but he could not reach 
 so the little giraffe started to cry 
 he wanted his plane back 
 so (.) the little elephant's mom got a fishing net and: (.) the plane scooped up 
@@ -39,7 +39,7 @@ and one day they went to the beach: and made a sandcastle
 but then the bunny dumped a huge bucket of sand all over the sandcastle 
 the sandcastle was ruined 
 the little pup:py cried because he liked the sandcastle a lot 
-but the bunny pretended he did do it not 
+but the bunny pretended he did not do it 
 the end . [+ bch]
 %mor:	det:art|the n|end 
 one day <the> [//] (.) there was a puppy (.) and (.) a bunny 
@@ -66,7 +66,7 @@ the puppy got mad at the bunny
 so the (.) bunny ran over to buy a balloon 
 he (.) bought: a red one 
 the balloon was five cents 
-the bunny did have any money not 
+the bunny did not have any money 
 the (.) puppy came over to see what was happening 
 the bunny looked at the salesman with his hand in his pockets 
 so he ran over to a lady 
